@@ -9,7 +9,10 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "https://sunshinelearner.com",
     "gcmpn": "sunshinelearner2016",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "https://sunshinelearner.com",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false"
 }
    
